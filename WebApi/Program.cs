@@ -6,14 +6,15 @@ builder.Services.AddDataAccess();
 builder.Services.AddBusinessLogic();
 builder.Services.AddControllers();
 builder.Services.AddSwaggerGen();
-var app = builder.Build();//fghjkl
+var apps = builder.Build();//fghjkl
 
-app.MapControllers();
-app.UseSwagger();
-app.UseSwaggerUI();
-app.Run();
+apps.MapControllers();
+apps.UseSwagger();
+apps.UseSwaggerUI();
+apps.Run();
 //commit//
 //new commit//
 //exstensions методы//
 //женерик методы
+
 // .гитигнор для проекта
