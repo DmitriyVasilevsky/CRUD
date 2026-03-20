@@ -13,3 +13,7 @@ app.UseSwagger();
 app.UseSwaggerUI();
 app.Run();
 //commit//
+//new commit//
+//exstensions методы//
+//женерик методы
+// .гитигнор для проекта
