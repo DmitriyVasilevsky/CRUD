@@ -1,0 +1,14 @@
+E:\Rider\CRUD\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+E:\Rider\CRUD\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+E:\Rider\CRUD\DataAccess\bin\Debug\net8.0\DataAccess.dll
+E:\Rider\CRUD\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+E:\Rider\CRUD\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+E:\Rider\CRUD\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rider\CRUD\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+E:\Rider\CRUD\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+E:\Rider\CRUD\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Rider\CRUD\DataAccess\obj\Debug\net8.0\DataAccess.dll
+E:\Rider\CRUD\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+E:\Rider\CRUD\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+E:\Rider\CRUD\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+E:\Rider\CRUD\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
